@@ -1,0 +1,24 @@
+/**Designed and created by omiuiux**/
+
+**components used to create the theme
+    1)Bootstrap 4.5
+    2)Html4/5
+    3)css/css3
+    4)jquery(javascript library)
+    5)owl carousel(Plugin for slider)
+    6)Fontawesome version 5(Through cdn)
+    7)waypoints.js(plugin for starting counting animation n scroll used through cdn)
+    8)counterup.js(plugin for counting numbers used through cdn)
+    9)node.js(for running sass)
+    10)sass(for styling)
+
+
+**All images are used in this theme are free to use for personal aas well as commercial use.
+
+Comments are applied only on the main page(index.html) of the theme because there is no difference in th code of other pages. 
+
+This theme consists of 5 pages 1)Index(main page) 2)About 3)Services 4)Portfolio 5)Contact
+
+This product is offered 'as is' without any guarantee and warranty. omiuiux.com and the respective author of this Agency theme shall not be liable for any damage derived from using this theme.
+
+For any other queries contact omiuiux@gmail.com
